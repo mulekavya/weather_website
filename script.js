@@ -1,4 +1,4 @@
-const ApiKey = "169a261b83fe2ecf99488b731f84e526"
+const ApiKey = "169a261b83fe2ecf99488b731f84e52"
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 // const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=hyderabad&units=metric&appid=fad6a2ff37ee67981cd18de4abfc73d0";
 
